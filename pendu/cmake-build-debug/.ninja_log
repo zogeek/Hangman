@@ -1,0 +1,4 @@
+# ninja log v5
+0	125	7229834976400100	CMakeFiles/pendu.dir/main.c.obj	cfb1b0f16288a3df
+2	104	7229951014524173	CMakeFiles/pendu.dir/Pendu.c.obj	f02d5c1cdc1038c2
+104	256	7229951015845655	pendu.exe	b555ae87dc787bc8

@@ -1,0 +1,3 @@
+C:/Users/ziyad/OneDrive - ENIGMA SCHOOL/code/first-year/c/penduall/Pendu-Ziyad-Ossart/pendu/cmake-build-debug/CMakeFiles/pendu.dir
+C:/Users/ziyad/OneDrive - ENIGMA SCHOOL/code/first-year/c/penduall/Pendu-Ziyad-Ossart/pendu/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ziyad/OneDrive - ENIGMA SCHOOL/code/first-year/c/penduall/Pendu-Ziyad-Ossart/pendu/cmake-build-debug/CMakeFiles/rebuild_cache.dir
