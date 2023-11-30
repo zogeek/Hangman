@@ -10,9 +10,10 @@
 #include <time.h>
 
 #define wordsPath "C:\\Users\\ziyad\\OneDrive - ENIGMA SCHOOL\\code\\first-year\\c\\penduall\\Pendu-Ziyad-Ossart\\Hangman\\pendu txt\\words.txt"
+
 void Game() {
     srand(time(NULL));
-    FILE *file = fopen(wordsPath, "r");
+    FILE *file = fopen("../words.txt", "r");
     if (file == NULL) {
         printf("Impossible d'ouvrir le fichier\n");
         printf("Les mots sont a placer dans le fichier words.txt, il faut aussi remplacer le wordspath(ligne 12 )\n");
