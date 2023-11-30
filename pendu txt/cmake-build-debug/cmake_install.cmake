@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/ziyad/OneDrive - ENIGMA SCHOOL/code/first-year/c/penduall/Pendu-Ziyad-Ossart/pendu txt
+# Install script for directory: C:/Users/ziyad/OneDrive - ENIGMA SCHOOL/code/first-year/c/penduall/Pendu-Ziyad-Ossart/Hangman/pendu txt
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/ziyad/OneDrive - ENIGMA SCHOOL/code/first-year/c/penduall/Pendu-Ziyad-Ossart/pendu txt/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/ziyad/OneDrive - ENIGMA SCHOOL/code/first-year/c/penduall/Pendu-Ziyad-Ossart/Hangman/pendu txt/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

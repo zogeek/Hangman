@@ -42,7 +42,7 @@ rule CUSTOM_COMMAND
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = "C:\Users\ziyad\AppData\Local\Programs\CLion Nova\bin\cmake\win\x64\bin\cmake.exe" --regenerate-during-build -S"C:\Users\ziyad\OneDrive - ENIGMA SCHOOL\code\first-year\c\penduall\Pendu-Ziyad-Ossart\pendu txt" -B"C:\Users\ziyad\OneDrive - ENIGMA SCHOOL\code\first-year\c\penduall\Pendu-Ziyad-Ossart\pendu txt\cmake-build-debug"
+  command = "C:\Users\ziyad\AppData\Local\Programs\CLion Nova\bin\cmake\win\x64\bin\cmake.exe" --regenerate-during-build -S"C:\Users\ziyad\OneDrive - ENIGMA SCHOOL\code\first-year\c\penduall\Pendu-Ziyad-Ossart\Hangman\pendu txt" -B"C:\Users\ziyad\OneDrive - ENIGMA SCHOOL\code\first-year\c\penduall\Pendu-Ziyad-Ossart\Hangman\pendu txt\cmake-build-debug"
   description = Re-running CMake...
   generator = 1
 

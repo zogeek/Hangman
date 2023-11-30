@@ -9,7 +9,7 @@
 #include <ctype.h>
 #include <time.h>
 
-#define wordsPath "DEFINE ABSOLUTE PATH TO FILE THERE, BUT IN PLACE YOU WRITE BACK SLASH WRITE 2, LIKE THIS : \\, OR IT WILL NOT WORK"
+#define wordsPath "C:\\Users\\ziyad\\OneDrive - ENIGMA SCHOOL\\code\\first-year\\c\\penduall\\Pendu-Ziyad-Ossart\\Hangman\\pendu txt\\words.txt"
 void Game() {
     srand(time(NULL));
     FILE *file = fopen(wordsPath, "r");
@@ -96,8 +96,10 @@ void Game() {
         int isFound = 0;
         //Nombre de coups restants
         int left_tries = max_incorrect_attemps - incorrect_attemps;
-        if (letter > 'Z' || letter < 'A') {
+        if (letter < 'A' || letter > 'Z' ) {
             printf("Entrez une lettre valide\n");
+            tries--;
+            isFound = 1;
             continue;
         }
         //Verification de la lettre deja entrer

@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/ziyad/OneDrive - ENIGMA SCHOOL/code/first-year/c/penduall/Pendu-Ziyad-Ossart/pendu txt/cmake-build-debug"
+			"value" : "c:/Users/ziyad/OneDrive - ENIGMA SCHOOL/code/first-year/c/penduall/Pendu-Ziyad-Ossart/Hangman/pendu txt/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -431,7 +431,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/ziyad/OneDrive - ENIGMA SCHOOL/code/first-year/c/penduall/Pendu-Ziyad-Ossart/pendu txt/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "C:/Users/ziyad/OneDrive - ENIGMA SCHOOL/code/first-year/c/penduall/Pendu-Ziyad-Ossart/Hangman/pendu txt/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -503,7 +503,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/ziyad/OneDrive - ENIGMA SCHOOL/code/first-year/c/penduall/Pendu-Ziyad-Ossart/pendu txt"
+			"value" : "C:/Users/ziyad/OneDrive - ENIGMA SCHOOL/code/first-year/c/penduall/Pendu-Ziyad-Ossart/Hangman/pendu txt"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1147,7 +1147,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/ziyad/OneDrive - ENIGMA SCHOOL/code/first-year/c/penduall/Pendu-Ziyad-Ossart/pendu txt/cmake-build-debug"
+			"value" : "C:/Users/ziyad/OneDrive - ENIGMA SCHOOL/code/first-year/c/penduall/Pendu-Ziyad-Ossart/Hangman/pendu txt/cmake-build-debug"
 		},
 		{
 			"name" : "penduv2_IS_TOP_LEVEL",
@@ -1171,7 +1171,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/ziyad/OneDrive - ENIGMA SCHOOL/code/first-year/c/penduall/Pendu-Ziyad-Ossart/pendu txt"
+			"value" : "C:/Users/ziyad/OneDrive - ENIGMA SCHOOL/code/first-year/c/penduall/Pendu-Ziyad-Ossart/Hangman/pendu txt"
 		}
 	],
 	"kind" : "cache",
