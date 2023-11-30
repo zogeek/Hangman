@@ -9,14 +9,16 @@
 #include <ctype.h>
 #include <time.h>
 
-#define wordsPath "C:\\Users\\ziyad\\OneDrive - ENIGMA SCHOOL\\code\\first-year\\c\\penduall\\Pendu-Ziyad-Ossart\\Hangman\\pendu txt\\words.txt"
+#define wordsPath "DEFINE ABSOLUTE PATH TO FILE THERE, BUT IN PLACE YOU WRITE BACK SLASH WRITE 2, LIKE THIS : \\, OR IT WILL NOT WORK"
+
+//Vous pouvez changer le chemin du fichier words.txt en modifiant la macro wordsPath ou en mettant le chemin directement dans la fonction Game()
 
 void Game() {
     srand(time(NULL));
     FILE *file = fopen("../words.txt", "r");
     if (file == NULL) {
         printf("Impossible d'ouvrir le fichier\n");
-        printf("Les mots sont a placer dans le fichier words.txt, il faut aussi remplacer le wordspath(ligne 12 )\n");
+        printf("Les mots sont a placer dans le fichier words.txt\n");
         exit(666);
     }
     rewind(file);
